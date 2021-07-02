@@ -1,0 +1,47 @@
+*{
+background-color: aquamarine;
+
+
+
+}
+
+
+
+nav{
+display: inline;
+
+}
+
+h1 { 
+	color: red;
+	font-family: roboto;
+	text-align: center;
+    text-shadow: 5px  3px black ;
+}
+
+.home{
+color: blue;
+font-family: roboto;
+}
+
+.about{
+    font-family: roboto;
+color: aqua;
+}
+.work{
+color: chartreuse;
+font-family: roboto;
+}
+
+.resume{
+    color: crimson;
+    font-family: roboto;
+}
+
+
+
+
+
+
+
+
